@@ -1,3 +1,6 @@
+![Disney](https://github.com/Shounak2003/disney-plus-clone/assets/93007487/159cdcea-544b-4a7d-ab87-911b84f70347)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
